@@ -1,5 +1,4 @@
 # kunumi-research-organization
-A brief and simple proposal of Kunumi research organization.
 
 Some ideas to be discussed with Adriano and Aninnha
 
